@@ -1,5 +1,5 @@
 # Level 1, Problem 1
-At VandyHacks, we use NFC wristbands to check people into meals and events. This gives us a rich dataset we can analyze for trends. In this problem, you'll be working with a similar dataset (note: this isn't real data from VandyHacks). You'll be given a [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) with sample NFC checkin data. 
+At VandyHacks, we use NFC wristbands to check people into meals and events. This gives us a rich dataset that we can use to analyze for trends. In this problem, you'll be working with a similar dataset (note: this isn't real data from VandyHacks). You'll be given a [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) with sample NFC checkin data. 
 
 ## Questions
 Answer these two questions using **code** (not Excel or similar).
