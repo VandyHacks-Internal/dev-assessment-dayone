@@ -14,13 +14,13 @@ You will have 24 hours to complete this assessment. We are not giving you 24 hou
 There are three levels as part of this assessment from level 0 to level 2. Each level is harder than the one that precedes it. As stated above, we are not necessarily looking for pefect scores. Do your best, don't stress out if you can't do a problem, and feel free to skip between problems.
 
 ### What resources am I allowed to use?
-You are allowed to use any reference material you'd like (including open sourced code on the Internet). If you directly copy code from GitHub or Stackoverflow, you do **not** have to cite it. Real software engineering invovles cleverly reusing others' code - we will not penalize that. Likewise, you may install dependencies if you believe they're the best way to solve the problem.
+You are allowed to use any reference material you'd like (including open sourced code on the Internet). If you directly copy code from GitHub or Stackoverflow, you do **not** have to cite it. Real software engineering involves cleverly reusing others' code - we will not penalize that. Likewise, you may install dependencies if you believe they're the best way to solve the problem.
 
 You are **NOT** allowed to received aid from another person. That includes other candidates applying for board, friends not applying to VandyHacks, professors, family and so on. Additionally, you are not permitted to solicit help from strangers by posting on StackOverflow or any forum site. 
 
 If you are confused by a question, please email ben@vandyhacks.org for clarification or find a current VandyHacks board member. 
  
-Anyone involved in any anuthorized collaboration will be immediately rejected from board. 
+Anyone involved in any unauthorized collaboration will be immediately rejected from board. 
 
 After the deadline, feel free to talk to whomever you'd like and share your code wherever you'd like!
 
